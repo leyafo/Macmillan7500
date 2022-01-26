@@ -9,3 +9,9 @@ I uploaded three files to reference the three levels.
 [star2](/star2)  //two-star level    
 [star3](/star2)  //three-star level     
   
+
+## Import to anki 
+Download the [Macmillian7500.apkg](/Macmillian7500.apkg). Open your Anki and import the downloaded `Macmillian7500.apkg` file. If you want TTS in back card, you can install the Anki plugin: [Awesome TTS](https://ankiweb.net/shared/info/1436550454)  
+
+You can remove the words that you've known.  Open the Deck -> Browse -> (ctrl+delete) remove a card.   
+All Done, happy learning.
